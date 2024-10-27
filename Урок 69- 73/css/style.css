@@ -5,7 +5,7 @@
 body{
     font-family: "Montserrat", "Arial", sans-serif;
     line-height: 125%;
-    background: #var(--white-text) ;
+    background: var(--white-text) ;
     color: #25282B;
 }
 .container{
